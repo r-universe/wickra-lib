@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/wickra-lib/wickra-lib.r-universe.dev
 	branch = HEAD
+[submodule "wickra"]
+	path = wickra
+	url = https://github.com/wickra-lib/wickra
+	subdir = bindings/r
