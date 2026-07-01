@@ -10,3 +10,7 @@
 	path = wickrabacktest
 	url = https://github.com/wickra-lib/wickra-backtest
 	subdir = bindings/r
+[submodule "wickraexchange"]
+	path = wickraexchange
+	url = https://github.com/wickra-lib/wickra-exchange
+	subdir = bindings/r
