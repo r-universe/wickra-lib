@@ -5,12 +5,15 @@
 [submodule "wickra"]
 	path = wickra
 	url = https://github.com/wickra-lib/wickra
+	branch = *release
 	subdir = bindings/r
 [submodule "wickrabacktest"]
 	path = wickrabacktest
 	url = https://github.com/wickra-lib/wickra-backtest
+	branch = *release
 	subdir = bindings/r
 [submodule "wickraterminal"]
 	path = wickraterminal
 	url = https://github.com/wickra-lib/wickra-terminal
+	branch = *release
 	subdir = bindings/r

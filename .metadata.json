@@ -1,0 +1,14 @@
+[
+  {
+    "package": "wickra",
+    "releasetag": true
+  },
+  {
+    "package": "wickraterminal",
+    "releasetag": true
+  },
+  {
+    "package": "wickrabacktest",
+    "releasetag": true
+  }
+]
