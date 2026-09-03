@@ -10,5 +10,13 @@
   {
     "package": "wickrabacktest",
     "releasetag": true
+  },
+  {
+    "package": "wickraexchange",
+    "releasetag": true
+  },
+  {
+    "package": "wickrascreener",
+    "releasetag": true
   }
 ]
