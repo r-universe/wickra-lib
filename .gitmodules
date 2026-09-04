@@ -15,7 +15,7 @@
 [submodule "wickraexchange"]
 	path = wickraexchange
 	url = https://github.com/wickra-lib/wickra-exchange
-	branch = *release
+	branch = v0.1.1
 	subdir = bindings/r
 [submodule "wickrascreener"]
 	path = wickrascreener
