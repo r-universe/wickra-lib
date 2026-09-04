@@ -20,10 +20,10 @@
 [submodule "wickrascreener"]
 	path = wickrascreener
 	url = https://github.com/wickra-lib/wickra-screener
-	branch = *release
+	branch = v0.1.2
 	subdir = bindings/r
 [submodule "wickraterminal"]
 	path = wickraterminal
 	url = https://github.com/wickra-lib/wickra-terminal
-	branch = *release
+	branch = v0.1.1
 	subdir = bindings/r
