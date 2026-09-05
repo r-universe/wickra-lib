@@ -18,5 +18,17 @@
   {
     "package": "wickrascreener",
     "releasetag": true
+  },
+  {
+    "package": "wickrasynth",
+    "releasetag": true
+  },
+  {
+    "package": "wickrabenchmark",
+    "releasetag": true
+  },
+  {
+    "package": "wickrastrategyci",
+    "releasetag": true
   }
 ]

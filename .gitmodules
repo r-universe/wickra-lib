@@ -12,6 +12,11 @@
 	url = https://github.com/wickra-lib/wickra-backtest
 	branch = v0.1.4
 	subdir = bindings/r
+[submodule "wickrabenchmark"]
+	path = wickrabenchmark
+	url = https://github.com/wickra-lib/wickra-benchmark
+	branch = *release
+	subdir = bindings/r
 [submodule "wickraexchange"]
 	path = wickraexchange
 	url = https://github.com/wickra-lib/wickra-exchange
@@ -21,6 +26,16 @@
 	path = wickrascreener
 	url = https://github.com/wickra-lib/wickra-screener
 	branch = v0.1.3
+	subdir = bindings/r
+[submodule "wickrastrategyci"]
+	path = wickrastrategyci
+	url = https://github.com/wickra-lib/wickra-strategy-ci
+	branch = *release
+	subdir = bindings/r
+[submodule "wickrasynth"]
+	path = wickrasynth
+	url = https://github.com/wickra-lib/wickra-synth
+	branch = *release
 	subdir = bindings/r
 [submodule "wickraterminal"]
 	path = wickraterminal
