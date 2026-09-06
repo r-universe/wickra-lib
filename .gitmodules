@@ -15,12 +15,12 @@
 [submodule "wickrabenchmark"]
 	path = wickrabenchmark
 	url = https://github.com/wickra-lib/wickra-benchmark
-	branch = *release
+	branch = v0.1.1
 	subdir = bindings/r
 [submodule "wickraexchange"]
 	path = wickraexchange
 	url = https://github.com/wickra-lib/wickra-exchange
-	branch = v0.1.2
+	branch = v0.1.3
 	subdir = bindings/r
 [submodule "wickrascreener"]
 	path = wickrascreener
