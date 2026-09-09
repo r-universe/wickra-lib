@@ -30,7 +30,7 @@
 [submodule "wickrastrategyci"]
 	path = wickrastrategyci
 	url = https://github.com/wickra-lib/wickra-strategy-ci
-	branch = v0.1.1
+	branch = v0.1.2
 	subdir = bindings/r
 [submodule "wickrasynth"]
 	path = wickrasynth
