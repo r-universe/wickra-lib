@@ -34,5 +34,29 @@
   {
     "package": "wickraxray",
     "releasetag": true
+  },
+  {
+    "package": "wickradarwin",
+    "releasetag": true
+  },
+  {
+    "package": "wickrafeaturestore",
+    "releasetag": true
+  },
+  {
+    "package": "wickragenome",
+    "releasetag": true
+  },
+  {
+    "package": "wickragym",
+    "releasetag": true
+  },
+  {
+    "package": "wickraimpact",
+    "releasetag": true
+  },
+  {
+    "package": "wickratimemachine",
+    "releasetag": true
   }
 ]
