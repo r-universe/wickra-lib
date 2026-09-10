@@ -42,3 +42,8 @@
 	url = https://github.com/wickra-lib/wickra-terminal
 	branch = v0.1.2
 	subdir = bindings/r
+[submodule "wickraxray"]
+	path = wickraxray
+	url = https://github.com/wickra-lib/wickra-xray
+	branch = *release
+	subdir = bindings/r
