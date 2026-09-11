@@ -105,7 +105,7 @@
 [submodule "wickraxray"]
 	path = wickraxray
 	url = https://github.com/wickra-lib/wickra-xray
-	branch = *release
+	branch = v0.1.1
 	subdir = bindings/r
 [submodule "wickrazk"]
 	path = wickrazk
