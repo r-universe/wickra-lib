@@ -58,5 +58,33 @@
   {
     "package": "wickratimemachine",
     "releasetag": true
+  },
+  {
+    "package": "wickracompile",
+    "releasetag": true
+  },
+  {
+    "package": "wickracopilot",
+    "releasetag": true
+  },
+  {
+    "package": "wickraproof",
+    "releasetag": true
+  },
+  {
+    "package": "wickraradar",
+    "releasetag": true
+  },
+  {
+    "package": "wickrashazam",
+    "releasetag": true
+  },
+  {
+    "package": "wickraverify",
+    "releasetag": true
+  },
+  {
+    "package": "wickrazk",
+    "releasetag": true
   }
 ]
