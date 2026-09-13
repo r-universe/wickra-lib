@@ -60,7 +60,7 @@
 [submodule "wickraproof"]
 	path = wickraproof
 	url = https://github.com/wickra-lib/wickra-proof
-	branch = *release
+	branch = v0.1.1
 	subdir = bindings/r
 [submodule "wickraradar"]
 	path = wickraradar
