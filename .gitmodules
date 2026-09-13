@@ -10,12 +10,12 @@
 [submodule "wickrabacktest"]
 	path = wickrabacktest
 	url = https://github.com/wickra-lib/wickra-backtest
-	branch = v0.1.4
+	branch = v0.1.5
 	subdir = bindings/r
 [submodule "wickrabenchmark"]
 	path = wickrabenchmark
 	url = https://github.com/wickra-lib/wickra-benchmark
-	branch = v0.1.1
+	branch = v0.1.2
 	subdir = bindings/r
 [submodule "wickracompile"]
 	path = wickracompile
@@ -30,12 +30,12 @@
 [submodule "wickradarwin"]
 	path = wickradarwin
 	url = https://github.com/wickra-lib/wickra-darwin
-	branch = *release
+	branch = v0.1.0
 	subdir = bindings/r
 [submodule "wickraexchange"]
 	path = wickraexchange
 	url = https://github.com/wickra-lib/wickra-exchange
-	branch = v0.1.3
+	branch = v0.1.4
 	subdir = bindings/r
 [submodule "wickrafeaturestore"]
 	path = wickrafeaturestore
@@ -55,7 +55,7 @@
 [submodule "wickraimpact"]
 	path = wickraimpact
 	url = https://github.com/wickra-lib/wickra-impact
-	branch = *release
+	branch = v0.1.0
 	subdir = bindings/r
 [submodule "wickraproof"]
 	path = wickraproof
@@ -70,7 +70,7 @@
 [submodule "wickrascreener"]
 	path = wickrascreener
 	url = https://github.com/wickra-lib/wickra-screener
-	branch = v0.1.3
+	branch = v0.1.4
 	subdir = bindings/r
 [submodule "wickrashazam"]
 	path = wickrashazam
@@ -80,17 +80,17 @@
 [submodule "wickrastrategyci"]
 	path = wickrastrategyci
 	url = https://github.com/wickra-lib/wickra-strategy-ci
-	branch = v0.1.2
+	branch = v0.1.3
 	subdir = bindings/r
 [submodule "wickrasynth"]
 	path = wickrasynth
 	url = https://github.com/wickra-lib/wickra-synth
-	branch = v0.1.1
+	branch = v0.1.2
 	subdir = bindings/r
 [submodule "wickraterminal"]
 	path = wickraterminal
 	url = https://github.com/wickra-lib/wickra-terminal
-	branch = v0.1.2
+	branch = v0.1.3
 	subdir = bindings/r
 [submodule "wickratimemachine"]
 	path = wickratimemachine
@@ -105,7 +105,7 @@
 [submodule "wickraxray"]
 	path = wickraxray
 	url = https://github.com/wickra-lib/wickra-xray
-	branch = v0.1.1
+	branch = v0.1.2
 	subdir = bindings/r
 [submodule "wickrazk"]
 	path = wickrazk
