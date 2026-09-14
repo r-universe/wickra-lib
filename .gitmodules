@@ -30,7 +30,7 @@
 [submodule "wickradarwin"]
 	path = wickradarwin
 	url = https://github.com/wickra-lib/wickra-darwin
-	branch = v0.1.1
+	branch = v0.1.2
 	subdir = bindings/r
 [submodule "wickraexchange"]
 	path = wickraexchange
@@ -40,7 +40,7 @@
 [submodule "wickrafeaturestore"]
 	path = wickrafeaturestore
 	url = https://github.com/wickra-lib/wickra-feature-store
-	branch = v0.1.0
+	branch = v0.1.1
 	subdir = bindings/r
 [submodule "wickragenome"]
 	path = wickragenome
@@ -50,12 +50,12 @@
 [submodule "wickragym"]
 	path = wickragym
 	url = https://github.com/wickra-lib/wickra-gym
-	branch = v0.1.1
+	branch = v0.1.2
 	subdir = bindings/r
 [submodule "wickraimpact"]
 	path = wickraimpact
 	url = https://github.com/wickra-lib/wickra-impact
-	branch = v0.1.1
+	branch = v0.1.2
 	subdir = bindings/r
 [submodule "wickraproof"]
 	path = wickraproof
