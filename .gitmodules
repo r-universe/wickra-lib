@@ -75,7 +75,7 @@
 [submodule "wickrashazam"]
 	path = wickrashazam
 	url = https://github.com/wickra-lib/wickra-shazam
-	branch = *release
+	branch = v0.1.0
 	subdir = bindings/r
 [submodule "wickrastrategyci"]
 	path = wickrastrategyci
