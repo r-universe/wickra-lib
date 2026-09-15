@@ -10,7 +10,7 @@
 [submodule "wickrabacktest"]
 	path = wickrabacktest
 	url = https://github.com/wickra-lib/wickra-backtest
-	branch = v0.1.5
+	branch = v0.1.6
 	subdir = bindings/r
 [submodule "wickrabenchmark"]
 	path = wickrabenchmark
@@ -35,7 +35,7 @@
 [submodule "wickraexchange"]
 	path = wickraexchange
 	url = https://github.com/wickra-lib/wickra-exchange
-	branch = v0.1.4
+	branch = v0.1.5
 	subdir = bindings/r
 [submodule "wickrafeaturestore"]
 	path = wickrafeaturestore
@@ -70,7 +70,7 @@
 [submodule "wickrascreener"]
 	path = wickrascreener
 	url = https://github.com/wickra-lib/wickra-screener
-	branch = v0.1.4
+	branch = v0.1.5
 	subdir = bindings/r
 [submodule "wickrashazam"]
 	path = wickrashazam
@@ -90,7 +90,7 @@
 [submodule "wickraterminal"]
 	path = wickraterminal
 	url = https://github.com/wickra-lib/wickra-terminal
-	branch = v0.1.3
+	branch = v0.1.4
 	subdir = bindings/r
 [submodule "wickratimemachine"]
 	path = wickratimemachine
@@ -105,7 +105,7 @@
 [submodule "wickraxray"]
 	path = wickraxray
 	url = https://github.com/wickra-lib/wickra-xray
-	branch = v0.1.2
+	branch = v0.1.3
 	subdir = bindings/r
 [submodule "wickrazk"]
 	path = wickrazk
