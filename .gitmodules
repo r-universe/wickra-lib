@@ -20,7 +20,7 @@
 [submodule "wickracompile"]
 	path = wickracompile
 	url = https://github.com/wickra-lib/wickra-compile
-	branch = *release
+	branch = v0.1.1
 	subdir = bindings/r
 [submodule "wickracopilot"]
 	path = wickracopilot
