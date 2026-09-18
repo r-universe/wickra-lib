@@ -90,7 +90,7 @@
 [submodule "wickraterminal"]
 	path = wickraterminal
 	url = https://github.com/wickra-lib/wickra-terminal
-	branch = v0.1.4
+	branch = v0.1.5
 	subdir = bindings/r
 [submodule "wickratimemachine"]
 	path = wickratimemachine
@@ -110,5 +110,5 @@
 [submodule "wickrazk"]
 	path = wickrazk
 	url = https://github.com/wickra-lib/wickra-zk
-	branch = v0.1.1
+	branch = v0.1.2
 	subdir = bindings/r
