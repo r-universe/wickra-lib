@@ -25,7 +25,7 @@
 [submodule "wickracopilot"]
 	path = wickracopilot
 	url = https://github.com/wickra-lib/wickra-copilot
-	branch = v0.1.2
+	branch = v0.1.3
 	subdir = bindings/r
 [submodule "wickradarwin"]
 	path = wickradarwin
@@ -35,7 +35,7 @@
 [submodule "wickraexchange"]
 	path = wickraexchange
 	url = https://github.com/wickra-lib/wickra-exchange
-	branch = v0.1.7
+	branch = v0.1.8
 	subdir = bindings/r
 [submodule "wickrafeaturestore"]
 	path = wickrafeaturestore
@@ -65,7 +65,7 @@
 [submodule "wickraradar"]
 	path = wickraradar
 	url = https://github.com/wickra-lib/wickra-radar
-	branch = v0.1.3
+	branch = v0.1.4
 	subdir = bindings/r
 [submodule "wickrascreener"]
 	path = wickrascreener
