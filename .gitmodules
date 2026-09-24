@@ -70,7 +70,7 @@
 [submodule "wickrascreener"]
 	path = wickrascreener
 	url = https://github.com/wickra-lib/wickra-screener
-	branch = v0.1.8
+	branch = v0.1.9
 	subdir = bindings/r
 [submodule "wickrashazam"]
 	path = wickrashazam
