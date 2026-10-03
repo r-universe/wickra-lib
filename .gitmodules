@@ -5,7 +5,7 @@
 [submodule "wickra"]
 	path = wickra
 	url = https://github.com/wickra-lib/wickra
-	branch = v1.0.6
+	branch = v1.0.7
 	subdir = bindings/r
 [submodule "wickrabacktest"]
 	path = wickrabacktest
