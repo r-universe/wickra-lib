@@ -5,110 +5,110 @@
 [submodule "wickra"]
 	path = wickra
 	url = https://github.com/wickra-lib/wickra
-	branch = v1.0.7
+	branch = v2.0.0
 	subdir = bindings/r
 [submodule "wickrabacktest"]
 	path = wickrabacktest
 	url = https://github.com/wickra-lib/wickra-backtest
-	branch = v0.1.9
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickrabenchmark"]
 	path = wickrabenchmark
 	url = https://github.com/wickra-lib/wickra-benchmark
-	branch = v0.1.5
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickracompile"]
 	path = wickracompile
 	url = https://github.com/wickra-lib/wickra-compile
-	branch = v0.1.4
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickracopilot"]
 	path = wickracopilot
 	url = https://github.com/wickra-lib/wickra-copilot
-	branch = v0.1.4
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickradarwin"]
 	path = wickradarwin
 	url = https://github.com/wickra-lib/wickra-darwin
-	branch = v0.1.5
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickraexchange"]
 	path = wickraexchange
 	url = https://github.com/wickra-lib/wickra-exchange
-	branch = v0.1.8
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickrafeaturestore"]
 	path = wickrafeaturestore
 	url = https://github.com/wickra-lib/wickra-feature-store
-	branch = v0.1.4
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickragenome"]
 	path = wickragenome
 	url = https://github.com/wickra-lib/wickra-genome
-	branch = v0.1.5
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickragym"]
 	path = wickragym
 	url = https://github.com/wickra-lib/wickra-gym
-	branch = v0.1.6
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickraimpact"]
 	path = wickraimpact
 	url = https://github.com/wickra-lib/wickra-impact
-	branch = v0.1.6
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickraproof"]
 	path = wickraproof
 	url = https://github.com/wickra-lib/wickra-proof
-	branch = v0.1.5
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickraradar"]
 	path = wickraradar
 	url = https://github.com/wickra-lib/wickra-radar
-	branch = v0.1.4
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickrascreener"]
 	path = wickrascreener
 	url = https://github.com/wickra-lib/wickra-screener
-	branch = v0.2.0
+	branch = v0.3.0
 	subdir = bindings/r
 [submodule "wickrashazam"]
 	path = wickrashazam
 	url = https://github.com/wickra-lib/wickra-shazam
-	branch = v0.1.4
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickrastrategyci"]
 	path = wickrastrategyci
 	url = https://github.com/wickra-lib/wickra-strategy-ci
-	branch = v0.1.6
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickrasynth"]
 	path = wickrasynth
 	url = https://github.com/wickra-lib/wickra-synth
-	branch = v0.1.4
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickraterminal"]
 	path = wickraterminal
 	url = https://github.com/wickra-lib/wickra-terminal
-	branch = v0.1.8
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickratimemachine"]
 	path = wickratimemachine
 	url = https://github.com/wickra-lib/wickra-timemachine
-	branch = v0.1.5
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickraverify"]
 	path = wickraverify
 	url = https://github.com/wickra-lib/wickra-verify
-	branch = v0.1.5
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickraxray"]
 	path = wickraxray
 	url = https://github.com/wickra-lib/wickra-xray
-	branch = v0.1.8
+	branch = v0.2.0
 	subdir = bindings/r
 [submodule "wickrazk"]
 	path = wickrazk
 	url = https://github.com/wickra-lib/wickra-zk
-	branch = v0.1.4
+	branch = v0.2.0
 	subdir = bindings/r
