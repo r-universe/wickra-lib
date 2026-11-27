@@ -10,7 +10,7 @@
 [submodule "wickrabacktest"]
 	path = wickrabacktest
 	url = https://github.com/wickra-lib/wickra-backtest
-	branch = v0.2.2
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickrabenchmark"]
 	path = wickrabenchmark
@@ -110,5 +110,5 @@
 [submodule "wickrazk"]
 	path = wickrazk
 	url = https://github.com/wickra-lib/wickra-zk
-	branch = v0.2.1
+	branch = v0.2.2
 	subdir = bindings/r
