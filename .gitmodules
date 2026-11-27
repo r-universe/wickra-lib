@@ -5,7 +5,7 @@
 [submodule "wickra"]
 	path = wickra
 	url = https://github.com/wickra-lib/wickra
-	branch = v2.2.0
+	branch = v2.2.1
 	subdir = bindings/r
 [submodule "wickrabacktest"]
 	path = wickrabacktest
@@ -35,7 +35,7 @@
 [submodule "wickraexchange"]
 	path = wickraexchange
 	url = https://github.com/wickra-lib/wickra-exchange
-	branch = v0.2.2
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickrafeaturestore"]
 	path = wickrafeaturestore
@@ -85,7 +85,7 @@
 [submodule "wickrasynth"]
 	path = wickrasynth
 	url = https://github.com/wickra-lib/wickra-synth
-	branch = v0.2.2
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickraterminal"]
 	path = wickraterminal
