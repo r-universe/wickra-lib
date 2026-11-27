@@ -15,7 +15,7 @@
 [submodule "wickrabenchmark"]
 	path = wickrabenchmark
 	url = https://github.com/wickra-lib/wickra-benchmark
-	branch = v0.2.1
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickracompile"]
 	path = wickracompile
@@ -55,12 +55,12 @@
 [submodule "wickraimpact"]
 	path = wickraimpact
 	url = https://github.com/wickra-lib/wickra-impact
-	branch = v0.2.2
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickraproof"]
 	path = wickraproof
 	url = https://github.com/wickra-lib/wickra-proof
-	branch = v0.2.2
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickraradar"]
 	path = wickraradar
@@ -70,7 +70,7 @@
 [submodule "wickrascreener"]
 	path = wickrascreener
 	url = https://github.com/wickra-lib/wickra-screener
-	branch = v0.3.1
+	branch = v0.3.3
 	subdir = bindings/r
 [submodule "wickrashazam"]
 	path = wickrashazam
@@ -80,7 +80,7 @@
 [submodule "wickrastrategyci"]
 	path = wickrastrategyci
 	url = https://github.com/wickra-lib/wickra-strategy-ci
-	branch = v0.2.2
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickrasynth"]
 	path = wickrasynth
