@@ -20,17 +20,17 @@
 [submodule "wickracompile"]
 	path = wickracompile
 	url = https://github.com/wickra-lib/wickra-compile
-	branch = v0.2.1
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickracopilot"]
 	path = wickracopilot
 	url = https://github.com/wickra-lib/wickra-copilot
-	branch = v0.2.1
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickradarwin"]
 	path = wickradarwin
 	url = https://github.com/wickra-lib/wickra-darwin
-	branch = v0.2.2
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickraexchange"]
 	path = wickraexchange
@@ -40,17 +40,17 @@
 [submodule "wickrafeaturestore"]
 	path = wickrafeaturestore
 	url = https://github.com/wickra-lib/wickra-feature-store
-	branch = v0.2.1
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickragenome"]
 	path = wickragenome
 	url = https://github.com/wickra-lib/wickra-genome
-	branch = v0.2.1
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickragym"]
 	path = wickragym
 	url = https://github.com/wickra-lib/wickra-gym
-	branch = v0.2.1
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickraimpact"]
 	path = wickraimpact
@@ -65,7 +65,7 @@
 [submodule "wickraradar"]
 	path = wickraradar
 	url = https://github.com/wickra-lib/wickra-radar
-	branch = v0.2.1
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickrascreener"]
 	path = wickrascreener
@@ -75,7 +75,7 @@
 [submodule "wickrashazam"]
 	path = wickrashazam
 	url = https://github.com/wickra-lib/wickra-shazam
-	branch = v0.2.1
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickrastrategyci"]
 	path = wickrastrategyci
@@ -95,17 +95,17 @@
 [submodule "wickratimemachine"]
 	path = wickratimemachine
 	url = https://github.com/wickra-lib/wickra-timemachine
-	branch = v0.2.1
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickraverify"]
 	path = wickraverify
 	url = https://github.com/wickra-lib/wickra-verify
-	branch = v0.2.2
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickraxray"]
 	path = wickraxray
 	url = https://github.com/wickra-lib/wickra-xray
-	branch = v0.2.1
+	branch = v0.2.3
 	subdir = bindings/r
 [submodule "wickrazk"]
 	path = wickrazk
